@@ -17,4 +17,4 @@ Sorillus RAT is a remote administration tool designed for managing client machin
 - **Maven**: For building the project
 - **Webcam Capture Library**: `webcam-capture` (included via Maven dependency)
 - **Windows OS**: For full functionality (registry and task scheduler features)
-<image-card alt="Server GUI" src="Screenshots/photo_2025-07-18_08-50-45.jpg" ></image-card>
+<image-card alt="Server GUI" src="https://github.com/IWantU-N/JavaRat/blob/main/Screenshots/photo_2025-07-18_08-50-45.jpg" ></image-card>
